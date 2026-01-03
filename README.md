@@ -89,12 +89,5 @@ AWS • Azure • Docker • Git
 
 ---
 
-## 📈 GitHub Stats (Optional)
-
-![Caleb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caleberickson21&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caleberickson21&layout=compact&theme=tokyonight)
-
----
-
 Thanks for visiting! Feel free to reach out if you'd like to collaborate or chat about AI, research, or software engineering.
 
